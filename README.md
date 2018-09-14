@@ -1,2 +1,2 @@
-# rsschool-profile
-# rsschool-profile
+Ihar Petrushenka
+HTML CSS Basics: https://www.codecademy.com/users/Ihar777/achievements
